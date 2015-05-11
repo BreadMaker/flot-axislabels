@@ -1,0 +1,18 @@
+{
+    "name": "flot-axislabels",
+    "description": "Axis Labels Plugin for Flot.",
+    "version": "2.0.0",
+    "keywords": [
+        "js",
+        "flot",
+        "plugin",
+        "axislabels"
+    ],
+    "homepage": "https://github.com/markrcote/flot-axislabels",
+    "main": [
+        "jquery.flot.axislabels.js"
+    ],
+    "dependencies": {
+        "flot": ">= 0.7.0"
+    }
+}
